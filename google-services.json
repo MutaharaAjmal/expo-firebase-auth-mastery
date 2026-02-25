@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "844610579412",
+    "project_id": "fir-expo-project-2e43e",
+    "storage_bucket": "fir-expo-project-2e43e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844610579412:android:68954de1cc080af2aec441",
+        "android_client_info": {
+          "package_name": "com.mutaharaduaa.firebaseexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844610579412-dj248rafipur93g10jisksuv4hthq6h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutaharaduaa.firebaseexpo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "844610579412-534k6lnc7890h1vfddu0fqkqntsv2do9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDS2711h6RxYmrC5XaVNe67GMN6q4ulo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844610579412-534k6lnc7890h1vfddu0fqkqntsv2do9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844610579412-bcptbtc39hhe737kum3jsodliceot8qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mutaharaduaa.firebaseexpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
